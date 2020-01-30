@@ -15,8 +15,15 @@ import com.pengrad.telegrambot.response.SendResponse;
 
 import br.com.fiap.telegram.configuracao.Mensagens;
 
+/**
+ * @author Camila Bressan
+ *
+ */
 public class App {
 
+	/**
+	 * @param args inicial
+	 */
 	public static void main(String[] args) {
 
 		// Criação do objeto bot com as informações de acesso --- Bot FullStack FIAP
